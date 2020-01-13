@@ -1,0 +1,82 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="magicalJoJo.com" resolutions="1x" timestamp="1578902251063">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="animation.css" crc="3763290110" ref="animation"/>
+    <file name="another.css" crc="284882651" ref="another"/>
+    <file name="illustration.css" crc="107755723" ref="illustration"/>
+    <file name="index.css" crc="4191060916" ref="index"/>
+    <file name="model.css" crc="3928229526" ref="model"/>
+  </folder>
+  <folder name="assets">
+    <file name="poster.pdf" crc="4145294543" seo="true" mt="1578180693000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:illustration:model:another"/>
+    <file name="museutils.js" crc="3939489907" ref="index:animation:illustration:model:another"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animation:illustration:model:another"/>
+    <file name="museconfig.js" crc="128606099" ref="index:animation:illustration:model:another"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:animation:illustration:model:another"/>
+    <file name="require.js" crc="4177726516" ref="index:animation:illustration:model:another"/>
+    <file name="webpro.js" crc="3856315280" ref="animation"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="animation"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="animation"/>
+    <file name="touchswipe.js" crc="3888935200" ref="animation"/>
+  </folder>
+  <folder name="images">
+    <file name="001.jpg" crc="175344269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u210-4.png" crc="3821679793" ref="index"/>
+    <file name="u214-4.png" crc="3925945072" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u219.png" crc="190890516" ref="index"/>
+    <file name="u219-r.png" crc="190890516" ref="index"/>
+    <file name="u226.png" crc="463246982" ref="index"/>
+    <file name="u226-r.png" crc="463246982" ref="index"/>
+    <file name="u232.png" crc="256237209" ref="index"/>
+    <file name="u232-r.png" crc="256237209" ref="index"/>
+    <file name="u238.png" crc="4056247758" ref="index"/>
+    <file name="u238-r.png" crc="4056247758" ref="index"/>
+    <file name="未命名-2.jpg" crc="66740519" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u270-4.png" crc="4168457733" ref="animation"/>
+    <file name="u274-4.png" crc="297711229" ref="animation"/>
+    <file name="20191219_move_01_10104.jpg" crc="3917610050" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="20191208_01-crop-u415.jpg" crc="327897515" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="20191208_02.jpg" crc="4195346311" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_3029.jpg" crc="95848691" seo="true" ref="model">
+      <caption webpage="model" alt=""/>
+    </file>
+    <file name="img_3041-crop-u479.jpg" crc="498377066" seo="true" ref="model">
+      <caption webpage="model" alt=""/>
+    </file>
+    <file name="img_1842-crop-u489.jpg" crc="4273832968" seo="true" ref="model">
+      <caption webpage="model" alt=""/>
+    </file>
+    <file name="img_2980 1-crop-u469.jpg" crc="3780582184" seo="true" ref="model">
+      <caption webpage="model" alt=""/>
+    </file>
+    <file name="img_3032.jpg" crc="4206063520" seo="true" ref="model">
+      <caption webpage="model" alt=""/>
+    </file>
+    <file name="photo6287049003233290577.jpg" crc="4247688629" seo="true" ref="another">
+      <caption webpage="another" alt=""/>
+    </file>
+    <file name="u514-6.png" crc="4192196184" ref="another"/>
+    <file name="sitcon logo.png" crc="4026099493" seo="true" ref="another">
+      <caption webpage="another" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3877979024" seo="true" mt="1578902236048" redirect="true"/>
+  <file name="animation.html" crc="214072249" seo="true" mt="1578902178079" redirect="true"/>
+  <file name="illustration.html" crc="459547263" seo="true" mt="1578898531181" redirect="true"/>
+  <file name="model.html" crc="4030883262" seo="true" mt="1578902076478" redirect="true"/>
+  <file name="another.html" crc="3786285311" seo="true" mt="1578902147820" redirect="true"/>
+</manifest>
